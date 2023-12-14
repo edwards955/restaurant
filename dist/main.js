@@ -1,1 +1,1 @@
-console.log("Testing 123");
+(()=>{"use strict";console.log("Testing 123"),console.log("Check this out"),document.querySelector("#content").textContent="This is a test"})();
