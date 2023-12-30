@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("Testing 123"),console.log("Check this out"),document.querySelector("#content").textContent="This is a test"})();
+(()=>{"use strict";console.log("Testing 123"),function(){const e=document.querySelector("#content"),t=document.createElement("h1");t.textContent="Zaxby's";const n=document.createElement("p");n.textContent="This chicken is the best chicken in the Southeast United States",e.appendChild(t),e.appendChild(n)}()})();
